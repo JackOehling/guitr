@@ -1,2 +1,2 @@
-# gitr
-learn da gitr
+# guitr
+learn da guitr
