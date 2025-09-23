@@ -17,4 +17,8 @@ Learn da Guitr
 - look at duo lingo and try and base my app off it slightly
     - take some components from it like the buttons and stuff
 
-
+Some prompts for after work
+- please create a simple view of this (show screenshot of view gemini made) to allow users to start a session and save songs
+- please implement the authentication
+- will need to look into auth (check duo lingo as well)
+- connect the db in supabase to the code in the project
